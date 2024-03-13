@@ -1,4 +1,4 @@
-name: drupal-base
+name: cybercx-drupal-base
 recipe: lagoon
 config:
   flavor: drupal

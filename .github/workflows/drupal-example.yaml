@@ -65,4 +65,4 @@ jobs:
     # - name: Show Lando logs
     #   continue-on-error: true
     #   run: |
-    #     docker-compose -p drupalbase logs
+    #     docker-compose -p cybercxdrupalbase logs

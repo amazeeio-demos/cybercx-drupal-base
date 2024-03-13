@@ -1,6 +1,9 @@
 docker-compose-yaml: docker-compose.yml
 
-project: drupal-base
+ssh: token.main.lagoon-core.test6.amazee.io:22
+api: https://api.main.lagoon-core.test6.amazee.io/graphql
+
+project: cybercx-drupal-base
 
 tasks:
 #   pre-rollout:
